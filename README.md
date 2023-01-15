@@ -6,8 +6,7 @@
 ---------------------------------------
 ## Websites
 
-## [Beeceptor](https://beeceptor.com/)
-## <a href="http://example.com/" target="_blank">example</a>
+## [Beeceptor](https://beeceptor.com/){:target="_blank"}
 ```
 A website where you can create a mock api that can act as your server and recive requests.
 ```

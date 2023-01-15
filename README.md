@@ -3,8 +3,7 @@
 
 
 ## A list of useful things that can help you in CTFs.
-
-
+---------------------------------------
 ## Websites
 
 ## [Beeceptor](https://beeceptor.com/)

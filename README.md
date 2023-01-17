@@ -8,7 +8,7 @@
 
 ## [Beeceptor](https://beeceptor.com/)
 ```
-A website where you can create a mock api that can act as your server and recive requests.
+A website where you can create a mock api that can act as your server and recive requests, very good for SSRFs!
 ```
 
 -----------------------

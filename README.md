@@ -45,6 +45,18 @@ essentialy burp suite let you see your http traffic, act as a proxy, change http
 Another classic like burp suite...
 Wireshark lets you sniff the network traffic on your computer and open sniffs files.
 ```
+
+### [Ida](https://hex-rays.com/ida-free/)
+```
+A reverse engineering tool!
+lets you see the assembly code of a program in a graph representation.
+```
+
+### [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+```
+A decompiler for cpp, very good for reverse engineering!
+```
+
 -----------------------------
 ## Python libraries
 

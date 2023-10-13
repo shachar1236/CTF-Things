@@ -11,6 +11,17 @@
 A website where you can create a mock api that can act as your server and recive requests, very good for SSRFs!
 ```
 
+### [Gdb cheat sheet](https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30)
+```
+Help with finding commangs for gdb
+```
+
+### [Online assembler](https://defuse.ca/online-x86-assembler.htm)
+```
+An online assembler that shows the machine code of instructions
+very usefull for running code exploits.
+```
+
 -----------------------
 ## Payloads
 
@@ -55,6 +66,16 @@ lets you see the assembly code of a program in a graph representation.
 ### [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 ```
 A decompiler for cpp, very good for reverse engineering!
+```
+
+### [Gdb](https://www.sourceware.org/gdb/)
+```
+A very usefull debugger to debug low level code and find exploits.
+```
+
+### [Gdp PEDA](https://github.com/longld/peda)
+```
+A gdb extension that helps with finding exploits in binaries.
 ```
 
 -----------------------------
